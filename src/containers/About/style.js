@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const AboutSection = styled.section`
-  margin-top: 64px;
+  margin: 64px 0;
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 64px;
@@ -13,17 +13,28 @@ export const AboutSection = styled.section`
   border-radius: 16px;
   padding: 46px;
 
+  @media only screen and (max-width: 600px) {
+    display: flex;
+    flex-direction: column-reverse;
+    margin-bottom: 100px;
+  }
+
   h3 {
     font-weight: 500;
     font-size: 14px;
-  }
-
-  p {
-    margin-top: 24px;
   }
 
   img {
     width: 100%;
     border-radius: 16px;
   }
+
+  span {
+    display: block;
+    margin-top: 8px;
+  }
 `;
+
+export const AboutDescription = styled.p`
+  margin: 24px 0;
+`

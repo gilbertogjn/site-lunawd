@@ -1,13 +1,22 @@
 import styled from "styled-components";
 
 export const ServicesSection = styled.section`
-  height: 500px;
+  margin-bottom: 64px;
+
+  @media only screen and (max-width: 600px) {
+    width: 100%;
+  }
 
   ul {
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
     justify-content: space-between;
     gap: 32px;
     margin-top: 34px;
+
+    @media only screen and (max-width: 600px) {
+      display: block;
+    }
 
     li {
       background: rgba(255, 255, 255, 0.1);
@@ -17,6 +26,10 @@ export const ServicesSection = styled.section`
       border: 1px solid rgba(255, 255, 255, 0.05);
       border-radius: 16px;
       padding: 36px;
+
+      @media only screen and (max-width: 600px) {
+        margin-bottom: 22px;
+      }
     }
 
     h3 {

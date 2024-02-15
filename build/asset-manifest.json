@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.fd8a7b7d.js",
+    "static/js/592.7287aaca.chunk.js": "/static/js/592.7287aaca.chunk.js",
+    "static/media/site6.png": "/static/media/site6.1541a505793f0d67d94f.png",
+    "static/media/site3.png": "/static/media/site3.747a593b5b26149af2fd.png",
+    "static/media/site5.png": "/static/media/site5.cd80f65a42aeaf23ab33.png",
+    "static/media/site2.png": "/static/media/site2.cdf7df255aa51deaf36a.png",
+    "static/media/site4.png": "/static/media/site4.2a30e60feb13d2f3be32.png",
+    "static/media/site1.png": "/static/media/site1.4fd860bc75d4cef5c30c.png",
+    "static/media/developer.png": "/static/media/developer.d42bdd405f2e5230f926.png",
+    "static/media/profile.jpg": "/static/media/profile.759d0c9ed39b066de6f3.jpg",
+    "static/media/landing-page.png": "/static/media/landing-page.1566d4a6e0c2a1f64741.png",
+    "static/media/blog.png": "/static/media/blog.cd88af60744093ca488d.png",
+    "static/media/institucional.png": "/static/media/institucional.0e27ece41795e5668c02.png",
+    "static/media/Logo-Luna-horizontal.svg": "/static/media/Logo-Luna-horizontal.44d21681f00ba48e3e8b4192bb7cca84.svg",
+    "index.html": "/index.html",
+    "main.fd8a7b7d.js.map": "/static/js/main.fd8a7b7d.js.map",
+    "592.7287aaca.chunk.js.map": "/static/js/592.7287aaca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fd8a7b7d.js"
+  ]
+}

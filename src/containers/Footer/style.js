@@ -7,7 +7,6 @@ export const FooterSection = styled.footer`
   backdrop-filter: blur(5px);
   -webkit-backdrop-filter: blur(5px);
   border: 1px solid rgba(255, 255, 255, 0.05);
-  border-radius: 16px;
   padding: 18px;
   width: 100%;
 

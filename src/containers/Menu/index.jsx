@@ -7,13 +7,13 @@ const Menu = () => (
             <a href="#hero"><Logo src={logoLuna} /></a>
             <ul>
                 <li>
-                    <a href="#">Serviços</a>
+                    <a href="#services">Serviços</a>
                 </li>
                 <li>
-                    <a href="#">Portfolio</a>
+                    <a href="#portfolio">Portfolio</a>
                 </li>
                 <li>
-                    <a href="#">Sobre</a>
+                    <a href="#about">Sobre</a>
                 </li>
             </ul>
         </ContainerTop>
